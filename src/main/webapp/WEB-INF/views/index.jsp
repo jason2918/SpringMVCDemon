@@ -45,6 +45,10 @@
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
 
+	<link href="<%=basePath %>bootstrap/extractcss/DT_bootstrap.css" rel="stylesheet">
+	<link href="<%=basePath %>bootstrap/extractcss/dt_table.css" rel="stylesheet">
+	<link href="<%=basePath %>bootstrap/extractcss/dt_page.css" rel="stylesheet">
+	
 </head>
 
 <body>
